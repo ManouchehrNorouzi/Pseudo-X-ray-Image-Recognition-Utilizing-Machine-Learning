@@ -1,5 +1,5 @@
 # Pseudo-X-ray-Image-Recognition-Utilizing-Machine-Learning
-![Model Architecture](./images/model_architecture.png)
+![Sample Image](./niO_53.jpg)
 
 
 
